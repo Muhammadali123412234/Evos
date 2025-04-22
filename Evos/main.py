@@ -1,6 +1,6 @@
 from telebot import TeleBot, types
 
-bot = TeleBot("8101053684:AAEHOUHY1kBE10KRPn46uO_jfyVHNiH5aMg")
+bot = TeleBot("8101053684:AAGjWDsBe7XEVJATL6edAg0FQPR48498ke0")
 
 # Savatdagi mahsulotlar
 cart = {}
